@@ -1,0 +1,14 @@
+p {
+			color: maroon;
+			background: red;
+			text-align: center;
+			font-family: calibri;
+			font-weight: bold;
+			font-size: 120%;
+text-shadow: 2px 3px 1px white;
+		}
+ul {list-style-type: square; color: blue;font-family: calibri;
+			text-decoration: underline;}
+
+ol {list-style-type: lower-alpha; color: orange;font-family: calibri;
+			text-decoration: double underline;}
